@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D000AB7B-E570-4CAE-BDA7-DC9FB4B12699"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2937482-9AC2-406C-9780-0189EDF5DA6C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Milestone_Projects_10_12/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "getUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2937482-9AC2-406C-9780-0189EDF5DA6C - d64e61e6fda0f1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Milestone_Projects_10_12.ContentView.getUsers() async -&gt; ()"
+                  moduleName = "Milestone_Projects_10_12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user09/HWSwiftUI_Projects/Milestone_Projects_10_12/Milestone_Projects_10_12/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "944">
+               </Location>
+               <Location
+                  uuid = "A2937482-9AC2-406C-9780-0189EDF5DA6C - 98f7c8dc1ab5e30e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Milestone_Projects_10_12.ContentView.getUsers() async -&gt; ()"
+                  moduleName = "Milestone_Projects_10_12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user09/HWSwiftUI_Projects/Milestone_Projects_10_12/Milestone_Projects_10_12/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "428">
+               </Location>
+               <Location
+                  uuid = "A2937482-9AC2-406C-9780-0189EDF5DA6C - 6dbe5a7d2ce71531"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Milestone_Projects_10_12.ContentView.getUsers() async -&gt; ()"
+                  moduleName = "Milestone_Projects_10_12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user09/HWSwiftUI_Projects/Milestone_Projects_10_12/Milestone_Projects_10_12/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  uuid = "A2937482-9AC2-406C-9780-0189EDF5DA6C - 6dbe5a7d2ce71512"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Milestone_Projects_10_12.ContentView.getUsers() async -&gt; ()"
+                  moduleName = "Milestone_Projects_10_12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user09/HWSwiftUI_Projects/Milestone_Projects_10_12/Milestone_Projects_10_12/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "412">
+               </Location>
+               <Location
+                  uuid = "A2937482-9AC2-406C-9780-0189EDF5DA6C - 6dbe5a7d2ce714dc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Milestone_Projects_10_12.ContentView.getUsers() async -&gt; ()"
+                  moduleName = "Milestone_Projects_10_12"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user09/HWSwiftUI_Projects/Milestone_Projects_10_12/Milestone_Projects_10_12/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "412">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9F05514-0684-4434-93E6-1ECACEE836CD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Milestone_Projects_10_12/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "getUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C586997D-0FA2-40C4-A271-2BBB6C3ECFD6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Milestone_Projects_10_12/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "saveUsers(users:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
